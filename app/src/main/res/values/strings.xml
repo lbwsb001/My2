@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BMI计算器</string>
+    <string name="btn1">BMI指数转换</string>
+</resources>
